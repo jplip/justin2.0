@@ -51,18 +51,17 @@ I've discoved after taking test that my score is really good. After looking at w
 - Random Values
 
 **Questions I Got Wrong:**
-
-**Question 22:**
 <!-- 
 https://raw.githubusercontent.com/jplip/justin2.0/main
 {{site.baseurl}}
 -->
-<center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/Q22Visual.png" width="400">
-</center>
-<center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/Q22AnswerCode.png" width="400">
-</center>
+
+**Question 22:**
+
+<div class="image-container">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/Q22Visual.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/Q22AnswerCode.png">
+</div>
 - I got this wrong because there is a 1 of 8 chances on this spinner as 3/4 of the spinner is taken by move 1 spacce and then the rest of the 1/4 is divided into to which would be 2/8 of a chance. As for the code, I don't really understand how it works but I'm guessing that if the spinner 1, then that is 1/8 and then if the spinnner equals 2, then that is the other 1/8. This leaves the else statement that if neither of those answers of 1 or 2 is reached, the answer would be 3-8 which would be 6/8 chance.
 
 **Question 23:**
