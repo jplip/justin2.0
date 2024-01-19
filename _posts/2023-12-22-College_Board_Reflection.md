@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: 2020 Practice Exam 1 MCQ Reflection
-courses: {compsci: {week: 5}}
+courses: {compsci: {week: 17}}
 type: tangibles
 ---
 <style>

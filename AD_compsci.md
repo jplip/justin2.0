@@ -1,6 +1,7 @@
 ---
 layout: scheduleStudent
 title: Computer Science Lab Notebook
-units: "1,2"
+description: Trimester 2 of AP Computer Science Principles
+units: "4,5,6"
 course: compsci
 ---
