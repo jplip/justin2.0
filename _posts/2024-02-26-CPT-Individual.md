@@ -17,37 +17,37 @@ Link to [College Board Requirements](https://apcentral.collegeboard.org/media/pd
 
 - ### Q1: ***Instructions for input from one of the following: the user, a device, an online data stream, a file.***
     - The user will click on answers that resonate the most with them and get scored based on the values associated with the answers to get a final score.
-    ![A1-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A1-1.png)
+    ![A1-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A1-1.png)
 
 
 - ### Q2: ***Use of at least one list (or other collection type) to represent a collection of data that is stored and used to manage program complexity and help fulfill the program’s purpose.***
     - Concept was not fully finished.
         - Concept: Added the jwt token to our users so that whichever user is connected to the website, can go onto the stress test and add their stress values to get their data for the day.
-    ![A2-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A2-1.png)
+    ![A2-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A2-1.png)
 
 
 - ### Q3: ***At least one procedure that contributed to the program’s intended purpose where you have defined: the name, return type, one or more parameters.***
     - The update function used to calculate the values of the answers chosen to then update the stress bar total.
-    ![A3-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A3-1.png)
+    ![A3-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A3-1.png)
 
 
 - ### Q4: ***An algorithm that includes sequencing, selection, and iteration that is in the body of the selected procedure.***
     - I used a selection of questions with a range of 1-4 to add to the total value of stress on the bar which at the end will be calculated.
-    ![A4-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A4-1.png)
+    ![A4-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A4-1.png)
 
 
 - ### Q5: ***Calls to your student-developed procedure.***
     - Calls the update function after every time pressing the next or back button.
-    ![A5-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A5-1.png)
+    ![A5-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A5-1.png)
     <br>
-    ![A5-2](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A5-2.png)
+    ![A5-2](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A5-2.png)
 
 
 - ### Q6: ***Instructions for output (tactile, audible, visual, or textual) based on input and program functionality.***
     - The final score after reaching the end of the test can be changed by going back with the 'back' button and selecting a different answer.
-    ![A6-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A6-1.png)
+    ![A6-1](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A6-1.png)
     <br>
-    ![A6-2](https://raw.githubusercontent.com/jplip/justin2.0/main/images/A6-2.png)
+    ![A6-2](https://raw.githubusercontent.com/jplip/justin2.0/main/images/CPT%20Individual/A6-2.png)
 
 
 ## Component B: Video
