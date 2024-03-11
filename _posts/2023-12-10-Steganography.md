@@ -1,7 +1,7 @@
 ---
 toc: True
 comments: True
-layout: page
+layout: post
 title: Steganography
 courses: {compsci: {week: 16}}
 type: hacks
