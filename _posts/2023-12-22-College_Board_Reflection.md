@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: 2020 Practice Exam 1 MCQ Reflection
+title: 2020 Practice Exam 2 MCQ Reflection
 courses: {compsci: {week: 17}}
 type: tangibles
 ---
@@ -50,7 +50,7 @@ I've discoved after taking test that my score is really good. After looking at w
 - Identifying and Correcting Errors
 - Random Values
 
-**Questions I Got Wrong:**
+# Questions I Got Wrong:
 <!-- 
 https://raw.githubusercontent.com/jplip/justin2.0/main
 {{site.baseurl}}
@@ -59,50 +59,51 @@ https://raw.githubusercontent.com/jplip/justin2.0/main
 **Question 22:**
 
 <div class="image-container">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q22Visual.png">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q22AnswerCode.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q22Visual.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q22AnswerCode.png">
 </div>
 - I got this wrong because there is a 1 of 8 chances on this spinner as 3/4 of the spinner is taken by move 1 spacce and then the rest of the 1/4 is divided into to which would be 2/8 of a chance. As for the code, I don't really understand how it works but I'm guessing that if the spinner 1, then that is 1/8 and then if the spinnner equals 2, then that is the other 1/8. This leaves the else statement that if neither of those answers of 1 or 2 is reached, the answer would be 3-8 which would be 6/8 chance.
 
 **Question 23:**
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q23Visual.png" width="700">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q23Visual.png" width="700">
 </center>
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q23Answer.png" width="400">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q23Answer.png" width="400">
 </center>
 - I got this wrong because I guess I wasn't paying attention enough. The question is asking me to pick the statement that would be true with the flowchart. Because the statements are all going towards availability, I need the answer to be true and to do this, I would have to be available during the weekends and the miles to be less than 20.
 
 **Question 45:**
 <!-- No visual just code based off a question.-->
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q45AnswerCode.png" width="400">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q45AnswerCode.png" width="400">
 </center>
 - I got this wrong because I thought you can only win with the answer of 3 but you can also win with 0 which can be deined as 3 for heads or 0 for tails.
 
 **Question 58:**
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q58Visual.png" width="400">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q58Visual.png" width="400">
 </center>
 <div class="image-container">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q58Answer.png">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q58AnswerMe.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q58Answer.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q58AnswerMe.png">
 </div>
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q58Reasoning.png" width="800">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q58Reasoning.png" width="800">
 </center>
 
 - I honestly don't understand what is going on in this problem. The statement if x=y would be the first and the middle one but if not, it would by y=z which would be the midle and last one. I don't understand how the answer is bat, cat, bat.
 
 **Question 67:**
 <center>
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q67Visual.png" width="400">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q67Visual.png" width="400">
 </center>
 <div class="image-container">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q67Answer.png">
-    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/Q67AnswerMe.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q67Answer.png">
+    <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/College%20Board%20Missed%20Questions/2020%20Practice%20Exam%20MCQ/Q67AnswerMe.png">
 </div>
 - I don't know why I got this wrong as it's asking for a value that won't be returned. In the first image with the two are the correct answers with the green highlighted being my answer and the answer in the next image below is my other answer. The answer that is correct that isn't mine I don't understand how this can't be returned by my other answer can't.
+
 
 **Review on questions:**
 
