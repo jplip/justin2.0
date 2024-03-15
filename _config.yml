@@ -1,8 +1,8 @@
 title: justin2.0
 description: "August 2023 to June 2024"
-owner_name: Tirth Thakkar
-github_username: Tirth-Thakkar
-github_repo: "Nighthawk-Pages"
+owner_name: jplip
+github_username: jplip
+github_repo: "justin2.0"
 baseurl: "/justin2.0"
 remote_theme: jekyll/minima
 minima:
