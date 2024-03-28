@@ -265,7 +265,7 @@ def initSleep(): # initializes the sleep disorder model
     prediction = sleep_health_predictor.predict_sleep_disorder(patient_data)
     return('Predicted Sleep Disorder:', prediction)
 ```
-***This is my model that I used and I was able to get the prediction to post. The problem is is that I couldn't find the reason on why the prediction for 'sleep disorder' couldn't switch no matter what value I put. I ended up not being able to finish the reason why the switch doesn't work. I'm guessing it's something to do with the values and I couldn't find it out. I struggled to finish the model and still haven't completed it. I think maybe the prediction might not be right but I honestly don't know since I think it's fine with the other model we done.***
+***This is my model that I used and I was able to get the prediction to post if a person has a sleep disorder. The problem is is that I couldn't find the reason on why the prediction for 'sleep disorder' couldn't switch from the value of 'none' no matter what values I put for the calculations. I'm guessing it's something to do with the values not having the right definement and I couldn't find the right ones. I struggled to finish the model and still haven't fully completed it because of this reason. I think maybe the prediction might not be right as well but I honestly don't know since I think it's fine with the other model we done.***
 <center>
     <img src="https://raw.githubusercontent.com/jplip/justin2.0/main/images/ML/ConsoleSleepDisorderNone.png" style="border: 1px solid white;">
 </center>
@@ -313,7 +313,7 @@ class SleepHealthAPI(Resource):
 # Add resource to the API
 api.add_resource(SleepHealthAPI, '/predict')
 ```
-***From what I know this api works fine and pulls the necessary data to work.***
+***From what I know this api works fine and pulls the necessary data to work. No difficulties with this.***
 
 # Summary
-***I think that the frontend was easy work but the backend was something that I need to look more into. I think that the model was definetly something that I struggled with and getting the values. I think the problem was human error where I just didn't know how to define the values as they were not just one word. All together I was kinda lost when doing the code for the model.
+***I think that the frontend was easy work but the backend was something that I need to look more into. I think that the model was definetly something that I struggled with and getting the values. I think the problem was human error where I just didn't know how to define the values as they were not just one word. All together I was kinda lost when doing the code for the model.***
